@@ -1,4 +1,25 @@
 CodeAbbey_Solutions
 ===================
 
-My solutions for codeabbey.com's problems.
+CodeAbbey problems and the solutions I made for them.
+
+A list of all problems can be found here: http://www.codeabbey.com/index/task_list
+
+<h2>Table of Contents:</h2>
+- CodeAbbey Problem 001 [Completed in: Python]
+- CodeAbbey Problem 002 [Completed in: Python]
+
+<h3>Problem descriptions:</h3>
+
+
+<strong>Problem 1: Sum "A+B"</strong>
+<BR>
+You are to add two numbers and tell their sum. 
+<BR>
+URL : http://www.codeabbey.com/index/task_view/sum-of-two
+
+<strong>Problem 2: Sum in Loop</strong>
+<BR>
+You are to find sum of several numbers (more than two).
+<BR>
+URL : http://www.codeabbey.com/index/task_view/sum-in-loop
