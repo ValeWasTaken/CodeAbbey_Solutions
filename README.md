@@ -25,6 +25,12 @@ You are to find sum of several numbers (more than two).
 <BR>
 URL : http://www.codeabbey.com/index/task_view/sum-in-loop
 
+<strong>Problem 3: Sums in Loops</strong>
+<BR>
+You will be given several pairs of values and you need to calculate sum for each pair. 
+<BR>
+URL : http://www.codeabbey.com/index/task_view/sums-in-loop
+
 <strong>Problem 67: Fibonacci Sequence</strong>
 <BR>
 You will be given several Fibonacci numbers. Your task is to tell their indices in the sequence.
