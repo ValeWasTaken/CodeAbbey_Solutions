@@ -8,6 +8,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 <h2>Table of Contents:</h2>
 - CodeAbbey Problem 001 [Completed in: Python]
 - CodeAbbey Problem 002 [Completed in: Python]
+- CodeAbbey Problem 003 [Completed in: Python]
 - CodeAbbey Problem 067 [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
