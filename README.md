@@ -9,6 +9,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 001 [Completed in: Python]
 - CodeAbbey Problem 002 [Completed in: Python]
 - CodeAbbey Problem 003 [Completed in: Python]
+- CodeAbbey Problem 004 [Completed in: Python]
 - CodeAbbey Problem 067 [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
@@ -31,6 +32,12 @@ URL : http://www.codeabbey.com/index/task_view/sum-in-loop
 You will be given several pairs of values and you need to calculate sum for each pair. 
 <BR>
 URL : http://www.codeabbey.com/index/task_view/sums-in-loop
+
+<strong>Problem 4: Minimum of Two</strong>
+<BR>
+Of two numbers, please, select one with minimum value.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/min-of-two
 
 <strong>Problem 67: Fibonacci Sequence</strong>
 <BR>
