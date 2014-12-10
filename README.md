@@ -10,6 +10,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 002 [Completed in: Python]
 - CodeAbbey Problem 003 [Completed in: Python]
 - CodeAbbey Problem 004 [Completed in: Python]
+- CodeAbbey Problem 005 [Completed in: Python]
 - CodeAbbey Problem 067 [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
@@ -38,6 +39,12 @@ URL : http://www.codeabbey.com/index/task_view/sums-in-loop
 Of two numbers, please, select one with minimum value.
 <BR>
 URL : http://www.codeabbey.com/index/task_view/min-of-two
+
+<strong>Problem 5: Minimum of Three</strong>
+<BR>
+Several triplets of numbers are given to you. Your task is to select minimum among each of triplets.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/min-of-three
 
 <strong>Problem 67: Fibonacci Sequence</strong>
 <BR>
