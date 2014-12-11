@@ -11,6 +11,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 003 [Completed in: Python]
 - CodeAbbey Problem 004 [Completed in: Python]
 - CodeAbbey Problem 005 [Completed in: Python]
+- CodeAbbey Problem 006 [Completed in: Python]
 - CodeAbbey Problem 015 [Completed in: Python]
 - CodeAbbey Problem 067 [Completed in: Python]
 
@@ -46,6 +47,13 @@ URL : http://www.codeabbey.com/index/task_view/min-of-two
 Several triplets of numbers are given to you. Your task is to select minimum among each of triplets.
 <BR>
 URL : http://www.codeabbey.com/index/task_view/min-of-three
+
+<strong>Problem 6: Rounding</strong>
+<BR>
+There are several pairs of numbers. For each pair you are to divide first by second and return the result, rounded to nearest integer.
+In cases, when result contains exactly 0.5 as a fraction part, value should be rounded up.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/rounding
 
 <strong>Problem 15: Maximum of array</strong>
 <BR>
