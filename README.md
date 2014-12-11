@@ -11,6 +11,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 003 [Completed in: Python]
 - CodeAbbey Problem 004 [Completed in: Python]
 - CodeAbbey Problem 005 [Completed in: Python]
+- CodeAbbey Problem 015 [Completed in: Python]
 - CodeAbbey Problem 067 [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
@@ -45,6 +46,13 @@ URL : http://www.codeabbey.com/index/task_view/min-of-two
 Several triplets of numbers are given to you. Your task is to select minimum among each of triplets.
 <BR>
 URL : http://www.codeabbey.com/index/task_view/min-of-three
+
+<strong>Problem 15: Maximum of array</strong>
+<BR>
+Input data will give you exactly 300 numbers in a single line.
+Answer should contain maximum and minimum of these values, separated by space.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/maximum-of-array
 
 <strong>Problem 67: Fibonacci Sequence</strong>
 <BR>
