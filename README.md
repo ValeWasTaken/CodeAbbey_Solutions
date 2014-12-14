@@ -14,6 +14,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 006 [Completed in: Python]
 - CodeAbbey Problem 007 [Completed in: Python]
 - CodeAbbey Problem 015 [Completed in: Python]
+- CodeAbbey Problem 020 [Completed in: Python]
 - CodeAbbey Problem 067 [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
@@ -68,6 +69,12 @@ Input data will give you exactly 300 numbers in a single line.
 Answer should contain maximum and minimum of these values, separated by space.
 <BR>
 URL : http://www.codeabbey.com/index/task_view/maximum-of-array
+
+<strong>Problem 20: Vowel Count</strong>
+<BR>
+You will be given several lines of text - and for each of them you should tell the number of vowels (i.e. letters a, o, u, i, e, y). Note: that y is regarded as vowel for purpose of this task.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/vowel-count
 
 <strong>Problem 67: Fibonacci Sequence</strong>
 <BR>
