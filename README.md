@@ -16,6 +16,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 015 [Completed in: Python]
 - CodeAbbey Problem 020 [Completed in: Python]
 - CodeAbbey Problem 030 [Completed in: Python]
+- CodeAbbey Problem 050 [Completed in: Python]
 - CodeAbbey Problem 067 [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
@@ -102,6 +103,15 @@ Reverse the string of text.
 URL : http://www.codeabbey.com/index/task_view/reverse-string
 <BR>
 Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id030-Reverse_String.py
+
+<strong>Problem 50: Reverse String</strong>
+<BR>
+Your goal in this programming exercise is to determine, whether the phrase represents a palindrome or not.
+Note: Spaces, capitalization, and punctuations are to be ignored.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/palindromes
+<BR>
+Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id050-Palindromes.py
 
 <strong>Problem 67: Fibonacci Sequence</strong>
 <BR>
