@@ -15,6 +15,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 007 [Completed in: Python]
 - CodeAbbey Problem 015 [Completed in: Python]
 - CodeAbbey Problem 020 [Completed in: Python]
+- CodeAbbey Problem 028 [Completed in: Python]
 - CodeAbbey Problem 030 [Completed in: Python]
 - CodeAbbey Problem 050 [Completed in: Python]
 - CodeAbbey Problem 067 [Completed in: Python]
@@ -95,6 +96,14 @@ You will be given several lines of text - and for each of them you should tell t
 URL : http://www.codeabbey.com/index/task_view/vowel-count
 <BR>
 Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id020-Vowel_Count.py
+
+<strong>Problem 28: Body Mass Index</strong>
+<BR>
+Calculate BMI multiple BMI values and assign whether they are under, normal, over, or obese BMIs.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/body-mass-index
+<BR>
+Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id028-Body_Mass_Index.py
 
 <strong>Problem 30: Reverse String</strong>
 <BR>
