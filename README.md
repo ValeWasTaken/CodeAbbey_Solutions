@@ -113,7 +113,7 @@ URL : http://www.codeabbey.com/index/task_view/reverse-string
 <BR>
 Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id030-Reverse_String.py
 
-<strong>Problem 50: Reverse String</strong>
+<strong>Problem 50: Palindromes</strong>
 <BR>
 Your goal in this programming exercise is to determine, whether the phrase represents a palindrome or not.
 Note: Spaces, capitalization, and punctuations are to be ignored.
