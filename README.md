@@ -17,6 +17,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 020 [Completed in: Python]
 - CodeAbbey Problem 028 [Completed in: Python]
 - CodeAbbey Problem 030 [Completed in: Python]
+- CodeAbbey Problem 041 [Completed in: Python]
 - CodeAbbey Problem 050 [Completed in: Python]
 - CodeAbbey Problem 067 [Completed in: Python]
 
@@ -112,6 +113,14 @@ Reverse the string of text.
 URL : http://www.codeabbey.com/index/task_view/reverse-string
 <BR>
 Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id030-Reverse_String.py
+
+<strong>Problem 41: Median of Three</strong>
+<BR>
+Find the median number of each set of three numbers.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/median-of-three
+<BR>
+Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id041-Median_of_Three.py
 
 <strong>Problem 50: Palindromes</strong>
 <BR>
