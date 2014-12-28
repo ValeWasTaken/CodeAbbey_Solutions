@@ -14,6 +14,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 006 [Completed in: Python]
 - CodeAbbey Problem 007 [Completed in: Python]
 - CodeAbbey Problem 015 [Completed in: Python]
+- CodeAbbey Problem 016 [Completed in: Python]
 - CodeAbbey Problem 020 [Completed in: Python]
 - CodeAbbey Problem 028 [Completed in: Python]
 - CodeAbbey Problem 030 [Completed in: Python]
@@ -89,6 +90,14 @@ Answer should contain maximum and minimum of these values, separated by space.
 URL : http://www.codeabbey.com/index/task_view/maximum-of-array
 <BR>
 Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id015-Maximum_of_array.py
+
+<strong>Problem 16: Average of an array</strong>
+<BR>
+You will be given several arrays, for each of which you are to find an average value. 0s do not count. All answers rounded.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/average-of-array
+<BR>
+Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id016-Average_of_an_array.py
 
 <strong>Problem 20: Vowel Count</strong>
 <BR>
