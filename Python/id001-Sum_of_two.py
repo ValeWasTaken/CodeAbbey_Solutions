@@ -1,4 +1,2 @@
-def add(a, b):                                                                                                                                                  
-        c = (a + b)
-        return c
-print add(9812989, 3395698)
+a,b = raw_input('Insert A & B -> ').split()
+print((int(a)+int(b)))
