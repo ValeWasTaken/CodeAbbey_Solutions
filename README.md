@@ -13,6 +13,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 005 [Completed in: Python]
 - CodeAbbey Problem 006 [Completed in: Python]
 - CodeAbbey Problem 007 [Completed in: Python]
+- CodeAbbey Problem 013 [Completed in: Python]
 - CodeAbbey Problem 015 [Completed in: Python]
 - CodeAbbey Problem 016 [Completed in: Python]
 - CodeAbbey Problem 020 [Completed in: Python]
@@ -82,6 +83,14 @@ You are to write program to convert degrees of Fahrenheit to Celsius.
 URL : http://www.codeabbey.com/index/task_view/fahrenheit-celsius
 <BR>
 Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id007-Fahrenheit_to_Celsius.py
+
+<strong>Problem 13: Fahrenheit to Celsius</strong>
+<BR>
+Calculate the weighted sum of digits.
+<BR>
+http://www.codeabbey.com/index/task_view/weighted-sum-of-digits
+<BR>
+https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id013-Weighted_sum_of_digits.py
 
 <strong>Problem 15: Maximum of array</strong>
 <BR>
