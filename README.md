@@ -84,7 +84,7 @@ URL : http://www.codeabbey.com/index/task_view/fahrenheit-celsius
 <BR>
 Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id007-Fahrenheit_to_Celsius.py
 
-<strong>Problem 13: Fahrenheit to Celsius</strong>
+<strong>Problem 13: Weighted sum of digits</strong>
 <BR>
 Calculate the weighted sum of digits.
 <BR>
