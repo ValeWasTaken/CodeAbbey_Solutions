@@ -19,6 +19,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 028 [Completed in: Python]
 - CodeAbbey Problem 030 [Completed in: Python]
 - CodeAbbey Problem 041 [Completed in: Python]
+- CodeAbbey Problem 043 [Completed in: Python]
 - CodeAbbey Problem 050 [Completed in: Python]
 - CodeAbbey Problem 067 [Completed in: Python]
 
@@ -130,6 +131,14 @@ Find the median number of each set of three numbers.
 URL : http://www.codeabbey.com/index/task_view/median-of-three
 <BR>
 Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id041-Median_of_Three.py
+
+<strong>Problem 43: Dice Rolling</strong>
+<BR>
+Convert values with floating point to one of six integer numbers: from 1 to 6.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/dice-rolling
+<BR>
+Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id043-Dice_Rolling.py
 
 <strong>Problem 50: Palindromes</strong>
 <BR>
