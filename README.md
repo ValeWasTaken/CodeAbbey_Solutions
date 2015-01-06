@@ -18,6 +18,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 015 [Completed in: Python]
 - CodeAbbey Problem 016 [Completed in: Python]
 - CodeAbbey Problem 020 [Completed in: Python]
+- CodeAbbey Problem 026 [Completed in: Python]
 - CodeAbbey Problem 028 [Completed in: Python]
 - CodeAbbey Problem 030 [Completed in: Python]
 - CodeAbbey Problem 041 [Completed in: Python]
@@ -125,6 +126,14 @@ You will be given several lines of text - and for each of them you should tell t
 URL : http://www.codeabbey.com/index/task_view/vowel-count
 <BR>
 Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id020-Vowel_Count.py
+
+<strong>Problem 26: GCD and LCM</strong>
+<BR>
+Find the least common multiplier and greater common divisor for every pair of numbers.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/greatest-common-divisor
+<BR>
+Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id026-GCD_and_LCM.py
 
 <strong>Problem 28: Body Mass Index</strong>
 <BR>
