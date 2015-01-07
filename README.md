@@ -15,6 +15,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 007 [Completed in: Python]
 - CodeAbbey Problem 011 [Completed in: Python]
 - CodeAbbey Problem 013 [Completed in: Python]
+- CodeAbbey Problem 014 [Completed in: Python]
 - CodeAbbey Problem 015 [Completed in: Python]
 - CodeAbbey Problem 016 [Completed in: Python]
 - CodeAbbey Problem 020 [Completed in: Python]
@@ -101,6 +102,14 @@ Calculate the weighted sum of digits.
 http://www.codeabbey.com/index/task_view/weighted-sum-of-digits
 <BR>
 https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id013-Weighted_sum_of_digits.py
+
+<strong>Problem 14: Modular Calculator</strong>
+<BR>
+Find the remainder of the result of all operations applied sequentially (starting with initial number) divided by the last number.
+<BR>
+URL : http://www.codeabbey.com/index/task_view/modular-calculator
+<BR>
+Solution: https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id014-Modular_Calculator.py
 
 <strong>Problem 15: Maximum of array</strong>
 <BR>
