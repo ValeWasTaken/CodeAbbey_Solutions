@@ -22,6 +22,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
 - CodeAbbey Problem 030 - **Reverse String** [Completed in: Python]
+- CodeAbbey Problem 035 - **Savings Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
@@ -159,6 +160,14 @@ Reverse the string of text.
 <a href="http://www.codeabbey.com/index/task_view/reverse-string">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id030-Reverse_String.py">Solution</a>
+
+<strong>Problem 35: Savings Calculator</strong>
+<BR>
+Calculate how many years it will take to reach each monetary goal using a start amount, end amount, and interest rate.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/savings-calculator">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id035-Savings_Calculator.py">Solution</a>
 
 <strong>Problem 41: Median of Three</strong>
 <BR>
