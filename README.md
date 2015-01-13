@@ -13,6 +13,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 005 - **Minimum of Three** [Completed in: Python]
 - CodeAbbey Problem 006 - **Rounding** [Completed in: Python]
 - CodeAbbey Problem 007 - **Fahrenheit to Celsius** [Completed in: Python]
+- CodeAbbey Problem 008 - **Arithmetic Progression** [Completed in: Python]
 - CodeAbbey Problem 011 - **Sum of digits** [Completed in: Python]
 - CodeAbbey Problem 013 - **Weighted sum of digits** [Completed in: Python]
 - CodeAbbey Problem 014 - **Modular Calculator** [Completed in: Python]
@@ -87,6 +88,14 @@ You are to write program to convert degrees of Fahrenheit to Celsius.
 <a href="http://www.codeabbey.com/index/task_view/fahrenheit-celsius">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id007-Fahrenheit_to_Celsius.py">Solution</a>
+
+<strong>Problem 8: Arithmetic Progression</strong>
+<BR>
+Calculate sums of arithmetic progression.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/arithmetic-progression">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id008-Arithmetic_Progression.py">Solution</a>
 
 <strong>Problem 11: Sum of digits</strong>
 <BR>
