@@ -14,7 +14,9 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 006 - **Rounding** [Completed in: Python]
 - CodeAbbey Problem 007 - **Fahrenheit to Celsius** [Completed in: Python]
 - CodeAbbey Problem 008 - **Arithmetic Progression** [Completed in: Python]
+- CodeAbbey Problem 008 - **Triangles** [*WORK-IN-PROGRESS*: Python]
 - CodeAbbey Problem 011 - **Sum of digits** [Completed in: Python]
+- CodeAbbey Problem 012 - **Modulo and time difference** [*WORK-IN-PROGRESS*: Python]
 - CodeAbbey Problem 013 - **Weighted sum of digits** [Completed in: Python]
 - CodeAbbey Problem 014 - **Modular Calculator** [Completed in: Python]
 - CodeAbbey Problem 015 - **Maximum of array** [Completed in: Python]
@@ -97,6 +99,14 @@ Calculate sums of arithmetic progression.
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id008-Arithmetic_Progression.py">Solution</a>
 
+<strong>Problem 9: Triangles</strong>
+<BR>
+You are given several triplets of values representing lengths of the sides of triangles. You should tell from which triplets it is possible to build triangle and for which it is not.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/triangles">Problem</a>
+<BR>
+<a href="">Solution (N/A)</a>
+
 <strong>Problem 11: Sum of digits</strong>
 <BR>
 Find the sum of (A*B) + C and then find the sum of that sum's digits for each line.
@@ -104,6 +114,14 @@ Find the sum of (A*B) + C and then find the sum of that sum's digits for each li
 <a href="http://www.codeabbey.com/index/task_view/sum-of-digits">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id011-Sum_of_digits.py">Solution</a>
+
+<strong>Problem 12: Modulo and time difference</strong>
+<BR>
+Calculate the difference in days, hours, minutes, and seconds between two times.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/modulo-and-time-difference">Problem</a>
+<BR>
+<a href="">Solution (N/A)</a>
 
 <strong>Problem 13: Weighted sum of digits</strong>
 <BR>
