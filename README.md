@@ -16,7 +16,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 008 - **Arithmetic Progression** [Completed in: Python]
 - CodeAbbey Problem 008 - **Triangles** [*WORK-IN-PROGRESS*: Python]
 - CodeAbbey Problem 011 - **Sum of digits** [Completed in: Python]
-- CodeAbbey Problem 012 - **Modulo and time difference** [*WORK-IN-PROGRESS*: Python]
+- CodeAbbey Problem 012 - **Modulo and time difference** [Completed in: Python]
 - CodeAbbey Problem 013 - **Weighted sum of digits** [Completed in: Python]
 - CodeAbbey Problem 014 - **Modular Calculator** [Completed in: Python]
 - CodeAbbey Problem 015 - **Maximum of array** [Completed in: Python]
