@@ -29,6 +29,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
+- CodeAbbey Problem 055 - **Matching Words** [Completed in: Python]
 - CodeAbbey Problem 067 - **Fibonacci Sequence** [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
@@ -220,6 +221,14 @@ Note: Spaces, capitalization, and punctuations are to be ignored.
 <a href="http://www.codeabbey.com/index/task_view/palindromes">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id050-Palindromes.py">Solution</a>
+
+<strong>Problem 55: Matching Words</strong>
+<BR>
+Sort through hundreds of words and print out the list of repeated words in alphabetical order.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/matching-words">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id055-Matching_Words.py">Solution</a>
 
 <strong>Problem 67: Fibonacci Sequence</strong>
 <BR>
