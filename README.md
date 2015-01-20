@@ -14,7 +14,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 006 - **Rounding** [Completed in: Python]
 - CodeAbbey Problem 007 - **Fahrenheit to Celsius** [Completed in: Python]
 - CodeAbbey Problem 008 - **Arithmetic Progression** [Completed in: Python]
-- CodeAbbey Problem 008 - **Triangles** [*WORK-IN-PROGRESS*: Python]
+- CodeAbbey Problem 009 - **Triangles** [Completed in: Python]
 - CodeAbbey Problem 011 - **Sum of digits** [Completed in: Python]
 - CodeAbbey Problem 012 - **Modulo and time difference** [Completed in: Python]
 - CodeAbbey Problem 013 - **Weighted sum of digits** [Completed in: Python]
@@ -106,7 +106,7 @@ You are given several triplets of values representing lengths of the sides of tr
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/triangles">Problem</a>
 <BR>
-<a href="">Solution (N/A)</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id009-Triangles.py">Solution (N/A)</a>
 
 <strong>Problem 11: Sum of digits</strong>
 <BR>
