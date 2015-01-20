@@ -106,7 +106,7 @@ You are given several triplets of values representing lengths of the sides of tr
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/triangles">Problem</a>
 <BR>
-<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id009-Triangles.py">Solution (N/A)</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id009-Triangles.py">Solution</a>
 
 <strong>Problem 11: Sum of digits</strong>
 <BR>
