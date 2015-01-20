@@ -122,7 +122,7 @@ Calculate the difference in days, hours, minutes, and seconds between two times.
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/modulo-and-time-difference">Problem</a>
 <BR>
-<a href="">Solution (N/A)</a>
+<a href="">Solution</a>
 
 <strong>Problem 13: Weighted sum of digits</strong>
 <BR>
