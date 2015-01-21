@@ -1,12 +1,7 @@
 def roundNums(amount):
-    pairCount = 0
     answers = []
-    while pairCount < amount:
-        pair = raw_input()
-        numbers = pair.split(' ')
-        answer = "%.02f" % (float(numbers[0]) / float(numbers[1]))
-        answer = int(round(float(answer)))
-        answers.append(str(answer))
-        pairCount += 1
+    for pairCount in range(amount):
+        pair = raw_input().split(' ')
+        answers.append(str(int(round(float("%.02f" % (float(pair[0]) / float(pair[1])))))))
     print(' '.join(answers))
 roundNums(input())
