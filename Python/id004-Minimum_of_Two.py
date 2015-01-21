@@ -1,16 +1,12 @@
 def findMin(amount):
         pairCount = 0
         answer = []
-        while pairCount < amount:
-                pair = raw_input()
-                numbers = pair.split(' ')
-                num1 = int(numbers[0])
-                num2 = int(numbers[1])
+        for pairCount in range(amount):
+                pair = raw_input().split(' ')
+                num1,num2 = int(pair[0]),int(pair[1])
                 if num1 < num2:
-                        num3 = num1
+                        answer.append(str(num1))
                 else:
-                        num3 = num2
-                answer.append(str(num3))
-                pairCount += 1
+                        answer.append(str(num2))
         print(' '.join(answer))
 findMin(input())
