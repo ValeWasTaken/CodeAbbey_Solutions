@@ -1,12 +1,8 @@
 def convert(variables):
-    variables = variables.split()
-    del variables[0]    
-    x = 0
     answer = []
-    while x < len(variables):
-        num = float(variables[x])
-        num = round(float((num) - 32) * (5.0/9.0))
-        answer.append(str(int(num)))
-        x += 1
+    for x in range(int(variables[0])):
+        num = float(variables[x+1])
+        num = int(round(float((num) - 32) * (5.0/9.0)))
+        answer.append(str(num))
     print(' '.join(answer))
-convert(raw_input())
+convert(raw_input().split())
