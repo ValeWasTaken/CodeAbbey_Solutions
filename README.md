@@ -21,6 +21,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 014 - **Modular Calculator** [Completed in: Python]
 - CodeAbbey Problem 015 - **Maximum of array** [Completed in: Python]
 - CodeAbbey Problem 016 - **Average of an array** [Completed in: Python]
+- CodeAbbey Problem 017 - **Array Checksum** [Completed in: Python]
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
@@ -156,6 +157,14 @@ You will be given several arrays, for each of which you are to find an average v
 <a href="http://www.codeabbey.com/index/task_view/average-of-array">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id016-Average_of_an_array.py">Solution</a>
+
+<strong>Problem 17: Array Checksum</strong>
+<BR>
+Calculate the checksum for an array.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/array-checksum">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id017-Array_Checksum.py">Solution</a>
 
 <strong>Problem 20: Vowel Count</strong>
 <BR>
