@@ -9,18 +9,14 @@ def cleanWord(data):
         return word
 
 def isPalindrome(wordCount):
-        x = 0
         answer = []
-        while x < wordCount:
-                data = raw_input().lower()
-                word = cleanWord(data)
-
+        for x in range(wordCount):
+                word = cleanWord(raw_input().lower())
                 word = ''.join(word)
                 if word == word[::-1]:
                         answer.append('Y')
                 elif word != word[::-1]:
                         answer.append('N')
-                x+=1
         print(' '.join(answer))
 
 isPalindrome(input())
