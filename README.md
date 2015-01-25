@@ -29,6 +29,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 035 - **Savings Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
+- CodeAbbey Problem 048 - **Collatz Sequence** [Completed in: Python]
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
 - CodeAbbey Problem 055 - **Matching Words** [Completed in: Python]
 - CodeAbbey Problem 067 - **Fibonacci Sequence** [Completed in: Python]
@@ -221,6 +222,14 @@ Convert values with floating point to one of six integer numbers: from 1 to 6.
 <a href="http://www.codeabbey.com/index/task_view/dice-rolling">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id043-Dice_Rolling.py">Solution</a>
+
+<strong>Problem 48: Collatz Sequence</strong>
+<BR>
+Run each number through the Collatz Sequence and determine how many times it must be processed before it reaches the number "1".
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/collatz-sequence">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id048-Collatz_Sequence.py">Solution</a>
 
 <strong>Problem 50: Palindromes</strong>
 <BR>
