@@ -22,6 +22,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 015 - **Maximum of array** [Completed in: Python]
 - CodeAbbey Problem 016 - **Average of an array** [Completed in: Python]
 - CodeAbbey Problem 017 - **Array Checksum** [Completed in: Python]
+- CodeAbbey Problem 018 - **Square Root** [Completed in: Python]
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
@@ -166,6 +167,14 @@ Calculate the checksum for an array.
 <a href="http://www.codeabbey.com/index/task_view/array-checksum">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id017-Array_Checksum.py">Solution</a>
+
+<strong>Problem 18: Square Root</strong>
+<BR>
+Write a program using Heron's method to generate square roots within at least 1e-7 = 0.0000001 of accurancy.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/square-root">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id018-Square_Root.py">Solution</a>
 
 <strong>Problem 20: Vowel Count</strong>
 <BR>
