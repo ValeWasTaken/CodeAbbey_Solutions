@@ -27,6 +27,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
 - CodeAbbey Problem 030 - **Reverse String** [Completed in: Python]
+- CodeAbbey Problem 032 - **Josephus Problem** [*WORK-IN-PROGRESS*]
 - CodeAbbey Problem 035 - **Savings Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
@@ -207,6 +208,14 @@ Reverse the string of text.
 <a href="http://www.codeabbey.com/index/task_view/reverse-string">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id030-Reverse_String.py">Solution</a>
+
+<strong>Problem 32: Josephus Problem</strong>
+<BR>
+Calculate who will be the survivor given the amount of participants and the dividing factor chosen for the Josephus problem. <a href="http://en.wikipedia.org/wiki/Josephus_problem">Click here for more info.</a>
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/josephus-problem">Problem</a>
+<BR>
+<a href="">Solution not yet finished.</a>
 
 <strong>Problem 35: Savings Calculator</strong>
 <BR>
