@@ -24,6 +24,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 017 - **Array Checksum** [Completed in: Python]
 - CodeAbbey Problem 018 - **Square Root** [Completed in: Python]
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
+- CodeAbbey Problem 021 - **Array Counters** [*WORK-IN-PROGRESS*]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
 - CodeAbbey Problem 030 - **Reverse String** [Completed in: Python]
@@ -184,6 +185,14 @@ You will be given several lines of text - and for each of them you should tell t
 <a href="http://www.codeabbey.com/index/task_view/vowel-count">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id020-Vowel_Count.py">Solution</a>
+
+<strong>Problem 21: Array Counters</strong>
+<BR>
+Here is an array of length M with numbers in the range 1 ... N, where N is less than or equal to 20. You are to go through it and count how many times each number is encountered.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/array-counters">Problem</a>
+<BR>
+<a href="">Solution not yet finished.</a>
 
 <strong>Problem 26: GCD and LCM</strong>
 <BR>
