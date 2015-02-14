@@ -36,6 +36,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
 - CodeAbbey Problem 055 - **Matching Words** [Completed in: Python]
 - CodeAbbey Problem 067 - **Fibonacci Sequence** [Completed in: Python]
+- CodeAbbey Problem 069 - **Fibonacci Divisibility** [*WORK-IN-PROGRESS*]
 
 <h3>Problem descriptions:</h3>
 
@@ -282,3 +283,11 @@ You will be given several Fibonacci numbers. Your task is to tell their indices 
 <a href="http://www.codeabbey.com/index/task_view/fibonacci-sequence">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id067-Fibonacci_Sequence.py">Solution</a>
+
+<strong>Problem 69: Fibonacci Divisibility</strong>
+<BR>
+find the index of the first non-zero member of this list, which is evenly divisible by this M, e.g. if you are given M = 17 the answer is 9 (the index of the element 34.) For all numbers given.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/fibonacci-divisibility">Problem</a>
+<BR>
+<a href="">Solution not yet finished.</a>
