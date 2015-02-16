@@ -36,7 +36,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
 - CodeAbbey Problem 055 - **Matching Words** [Completed in: Python]
 - CodeAbbey Problem 067 - **Fibonacci Sequence** [Completed in: Python]
-- CodeAbbey Problem 069 - **Fibonacci Divisibility** [*WORK-IN-PROGRESS*]
+- CodeAbbey Problem 069 - **Fibonacci Divisibility** [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
 
@@ -290,4 +290,4 @@ find the index of the first non-zero member of this list, which is evenly divisi
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/fibonacci-divisibility">Problem</a>
 <BR>
-<a href="">Solution not yet finished.</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id069-Fibonacci_Divisibility.py">Solution</a>
