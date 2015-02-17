@@ -33,6 +33,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
 - CodeAbbey Problem 048 - **Collatz Sequence** [Completed in: Python]
+- CodeAbbey Problem 049 - **Rock Paper Scissors** [Completed in: Python]
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
 - CodeAbbey Problem 055 - **Matching Words** [Completed in: Python]
 - CodeAbbey Problem 067 - **Fibonacci Sequence** [Completed in: Python]
@@ -258,6 +259,15 @@ Run each number through the Collatz Sequence and determine how many times it mus
 <a href="http://www.codeabbey.com/index/task_view/collatz-sequence">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id048-Collatz_Sequence.py">Solution</a>
+
+<strong>Problem 49: Rock Paper Scissors</strong>
+<BR>
+You will be given several records of played R.P.S. games. You are to tell for each of them who of players won.
+Note: They specified there would be no ties so I didn't add in a "tie game" ending.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/rock-paper-scissors">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id049-Rock_Paper_Scissors.py">Solution</a>
 
 <strong>Problem 50: Palindromes</strong>
 <BR>
