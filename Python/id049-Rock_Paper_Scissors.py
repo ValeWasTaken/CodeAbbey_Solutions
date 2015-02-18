@@ -4,9 +4,9 @@ def playRPS(games):
         matches = raw_input().split()
         player1,player2 = 0,0
         for match in matches:
-            if match == 'RR' or match == 'PP' or match == 'SS':
+            if any(match == x for x in ['RR','PP','SS']):
                 0
-            elif match == 'RS' or match == 'PR' or match == 'SP':
+            elif any(match == x for x in ['RS','PR','SP']):
                 player1 += 1
             else:
                 player2 += 1
