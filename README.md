@@ -303,7 +303,7 @@ Find the index of the first non-zero member of this list, which is evenly divisi
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id069-Fibonacci_Divisibility.py">Solution</a>
 
-<strong>Problem 69: Fibonacci Divisibility Advanced</strong>
+<strong>Problem 71: Fibonacci Divisibility Advanced</strong>
 <BR>
 Find the index of the first non-zero member of this list, which is evenly divisible by this M, e.g. if you are given M = 17 the answer is 9 (the index of the element 34.) For all numbers given. The difference from the problem #69 is that the numbers inputted into this program are around 8 figures while problem #69 was around 1-2 figures.
 <BR>
