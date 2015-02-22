@@ -40,6 +40,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 068 - **Bicycle Race** [Completed in: Python]
 - CodeAbbey Problem 069 - **Fibonacci Divisibility** [Completed in: Python]
 - CodeAbbey Problem 071 - **Fibonacci Divisibility Advanced** [Completed in: Python]
+- CodeAbbey Problem 202 - **Dancing Pairs** [*WORK-IN-PROGRESS*]
 
 <h3>Problem descriptions:</h3>
 
@@ -319,3 +320,11 @@ Find the index of the first non-zero member of this list, which is evenly divisi
 <a href="http://www.codeabbey.com/index/task_view/fibonacci-divisibility-advanced">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id071-Fibonacci_Divisibility_Advanced.py">Solution</a>
+
+<strong>Problem 202: Dancing Pairs</strong>
+<BR>
+There is a great celebration. There are guests - N gentlemen and N ladies. Now they are to be organized in pairs for the great dance. However women are capricious - each of them will agree to dance only with very certain partners she likes. So master of ceremonies is having hard time trying to make as many pairs as possible. Please, help him in this task!
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/dancing-pairs">Problem</a>
+<BR>
+<a href="">Solution not yet finished.</a>
