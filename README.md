@@ -24,11 +24,11 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 017 - **Array Checksum** [Completed in: Python]
 - CodeAbbey Problem 018 - **Square Root** [Completed in: Python]
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
-- CodeAbbey Problem 021 - **Array Counters** [*WORK-IN-PROGRESS*]
+- CodeAbbey Problem 021 - **Array Counters** [*On hold*]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
 - CodeAbbey Problem 030 - **Reverse String** [Completed in: Python]
-- CodeAbbey Problem 032 - **Josephus Problem** [*WORK-IN-PROGRESS*]
+- CodeAbbey Problem 032 - **Josephus Problem** [*On hold*]
 - CodeAbbey Problem 035 - **Savings Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
@@ -41,7 +41,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 069 - **Fibonacci Divisibility** [Completed in: Python]
 - CodeAbbey Problem 071 - **Fibonacci Divisibility Advanced** [Completed in: Python]
 - CodeAbbey Problem 094 - **Fool's Day 2014** [Completed in: Python]
-- CodeAbbey Problem 202 - **Dancing Pairs** [*WORK-IN-PROGRESS*]
+- CodeAbbey Problem 202 - **Dancing Pairs** [*On hold]
 
 <h3>Problem descriptions:</h3>
 
