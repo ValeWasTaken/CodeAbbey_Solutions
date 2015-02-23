@@ -41,7 +41,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 069 - **Fibonacci Divisibility** [Completed in: Python]
 - CodeAbbey Problem 071 - **Fibonacci Divisibility Advanced** [Completed in: Python]
 - CodeAbbey Problem 094 - **Fool's Day 2014** [Completed in: Python]
-- CodeAbbey Problem 202 - **Dancing Pairs** [*On hold]
+- CodeAbbey Problem 202 - **Dancing Pairs** [*On hold*]
 
 <h3>Problem descriptions:</h3>
 
