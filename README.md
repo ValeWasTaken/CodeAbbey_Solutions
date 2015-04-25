@@ -36,6 +36,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 049 - **Rock Paper Scissors** [Completed in: Python]
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
 - CodeAbbey Problem 055 - **Matching Words** [Completed in: Python]
+- CodeAbbey Problem 057 - **Smoothing the Weather** [Completed in: Python]
 - CodeAbbey Problem 067 - **Fibonacci Sequence** [Completed in: Python]
 - CodeAbbey Problem 068 - **Bicycle Race** [Completed in: Python]
 - CodeAbbey Problem 069 - **Fibonacci Divisibility** [Completed in: Python]
@@ -288,6 +289,14 @@ Sort through hundreds of words and print out the list of repeated words in alpha
 <a href="http://www.codeabbey.com/index/task_view/matching-words">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id055-Matching_Words.py">Solution</a>
+
+<strong>Problem 57: Smoothing the Weather</strong>
+<BR>
+Return a list of temperatures by replacing each value with the average of it and the two beside it to provide a smooth final report.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/smoothing-the-weather">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id057-Smoothing_the_Weather.py">Solution</a>
 
 <strong>Problem 67: Fibonacci Sequence</strong>
 <BR>
