@@ -28,6 +28,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 027 - **Bubble Sort** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
+- CodeAbbey Problem 029 - **Sort with Indexes** [Completed in: Python]
 - CodeAbbey Problem 030 - **Reverse String** [Completed in: Python]
 - CodeAbbey Problem 032 - **Josephus Problem** [*On hold*]
 - CodeAbbey Problem 035 - **Savings Calculator** [Completed in: Python]
@@ -224,6 +225,14 @@ Calculate BMI multiple BMI values and assign whether they are under, normal, ove
 <a href="http://www.codeabbey.com/index/task_view/body-mass-index">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id028-Body_Mass_Index.py">Solution</a>
+
+<strong>Problem 29: Sort with Indexes</strong>
+<BR>
+Sort a given array of numbers and then for each value (in non-decreasing order) its initial index should be printed.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/sort-with-indexes">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id029-Sort_with_Indexes.py">Solution</a>
 
 <strong>Problem 30: Reverse String</strong>
 <BR>
