@@ -26,7 +26,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
 - CodeAbbey Problem 021 - **Array Counters** [*On hold*]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
-- CodeAbbey Problem 027 - **Bubble Sort** [*In progress*]
+- CodeAbbey Problem 027 - **Bubble Sort** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
 - CodeAbbey Problem 030 - **Reverse String** [Completed in: Python]
 - CodeAbbey Problem 032 - **Josephus Problem** [*On hold*]
@@ -215,7 +215,7 @@ Use the bubble sort method, then calculate the number of swaps and passes used i
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/bubble-sort">Problem</a>
 <BR>
-<a href="">Solution (In Progress)</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id027-Bubble_Sort.py">Solution</a>
 
 <strong>Problem 28: Body Mass Index</strong>
 <BR>
