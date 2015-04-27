@@ -24,7 +24,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 017 - **Array Checksum** [Completed in: Python]
 - CodeAbbey Problem 018 - **Square Root** [Completed in: Python]
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
-- CodeAbbey Problem 021 - **Array Counters** [*On hold*]
+- CodeAbbey Problem 021 - **Array Counters** [Completed in: Python]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 027 - **Bubble Sort** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
@@ -200,7 +200,7 @@ Here is an array of length M with numbers in the range 1 ... N, where N is less 
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/array-counters">Problem</a>
 <BR>
-<a href="">Solution not yet finished.</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id021-Array_Counters.py">Solution</a>
 
 <strong>Problem 26: GCD and LCM</strong>
 <BR>
