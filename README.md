@@ -26,6 +26,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
 - CodeAbbey Problem 021 - **Array Counters** [*On hold*]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
+- CodeAbbey Problem 027 - **Bubble Sort** [*In progress*]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
 - CodeAbbey Problem 030 - **Reverse String** [Completed in: Python]
 - CodeAbbey Problem 032 - **Josephus Problem** [*On hold*]
@@ -207,6 +208,14 @@ Find the least common multiplier and greater common divisor for every pair of nu
 <a href="http://www.codeabbey.com/index/task_view/greatest-common-divisor">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id026-GCD_and_LCM.py">Solution</a>
+
+<strong>Problem 27: Bubble Sort</strong>
+<BR>
+Use the bubble sort method, then calculate the number of swaps and passes used in the sorting.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/bubble-sort">Problem</a>
+<BR>
+<a href="">Solution (In Progress)</a>
 
 <strong>Problem 28: Body Mass Index</strong>
 <BR>
