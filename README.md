@@ -30,7 +30,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
 - CodeAbbey Problem 029 - **Sort with Indexes** [Completed in: Python]
 - CodeAbbey Problem 030 - **Reverse String** [Completed in: Python]
-- CodeAbbey Problem 030 - **Rotate String** [Completed in: Python]
+- CodeAbbey Problem 031 - **Rotate String** [Completed in: Python]
 - CodeAbbey Problem 032 - **Josephus Problem** [Completed in: Python]
 - CodeAbbey Problem 035 - **Savings Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
