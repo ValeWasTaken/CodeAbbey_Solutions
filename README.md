@@ -30,6 +30,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
 - CodeAbbey Problem 029 - **Sort with Indexes** [Completed in: Python]
 - CodeAbbey Problem 030 - **Reverse String** [Completed in: Python]
+- CodeAbbey Problem 030 - **Rotate String** [Completed in: Python]
 - CodeAbbey Problem 032 - **Josephus Problem** [Completed in: Python]
 - CodeAbbey Problem 035 - **Savings Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
@@ -241,6 +242,14 @@ Reverse the string of text.
 <a href="http://www.codeabbey.com/index/task_view/reverse-string">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id030-Reverse_String.py">Solution</a>
+
+<strong>Problem 31: Rotate String</strong>
+<BR>
+Rotate string by K characters means to cut these characters from the beginning and transfer them to the end. If K is negative, characters, on contrary should be transferred from the end to the beginning.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/rotate-string">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id031-Rotate_String.py">Solution</a>
 
 <strong>Problem 32: Josephus Problem</strong>
 <BR>
