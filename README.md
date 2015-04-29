@@ -30,7 +30,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
 - CodeAbbey Problem 029 - **Sort with Indexes** [Completed in: Python]
 - CodeAbbey Problem 030 - **Reverse String** [Completed in: Python]
-- CodeAbbey Problem 032 - **Josephus Problem** [*On hold*]
+- CodeAbbey Problem 032 - **Josephus Problem** [Completed in: Python]
 - CodeAbbey Problem 035 - **Savings Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
@@ -248,7 +248,7 @@ Calculate who will be the survivor given the amount of participants and the divi
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/josephus-problem">Problem</a>
 <BR>
-<a href="">Solution not yet finished.</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id032-Josephus_Problem.py">Solution</a>
 
 <strong>Problem 35: Savings Calculator</strong>
 <BR>
