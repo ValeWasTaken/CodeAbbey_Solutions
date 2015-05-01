@@ -253,7 +253,7 @@ Rotate string by K characters means to cut these characters from the beginning a
 
 <strong>Problem 32: Josephus Problem</strong>
 <BR>
-Calculate who will be the survivor given the amount of participants and the dividing factor chosen for the Josephus problem. <a href="http://en.wikipedia.org/wiki/Josephus_problem">Click here for more info.</a>
+Calculate who will be the survivor given the amount of participants and the dividing factor chosen for the Josephus problem.
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/josephus-problem">Problem</a>
 <BR>
