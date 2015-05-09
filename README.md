@@ -38,6 +38,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 048 - **Collatz Sequence** [Completed in: Python]
 - CodeAbbey Problem 049 - **Rock Paper Scissors** [Completed in: Python]
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
+- CodeAbbey Problem 052 - **Pythagorean Theorem** [Completed in: Python]
 - CodeAbbey Problem 055 - **Matching Words** [Completed in: Python]
 - CodeAbbey Problem 057 - **Smoothing the Weather** [Completed in: Python]
 - CodeAbbey Problem 067 - **Fibonacci Sequence** [Completed in: Python]
@@ -308,6 +309,14 @@ Note: Spaces, capitalization, and punctuations are to be ignored.
 <a href="http://www.codeabbey.com/index/task_view/palindromes">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id050-Palindromes.py">Solution</a>
+
+<strong>Problem 52: Pythagorean Theorem</strong>
+<BR>
+Determine if each triangle is right, acute, or obtuse.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/pythagorean-theorem">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id052-Pythagorean_Theorem.py">Solution</a>
 
 <strong>Problem 55: Matching Words</strong>
 <BR>
