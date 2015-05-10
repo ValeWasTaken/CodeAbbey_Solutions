@@ -45,6 +45,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 068 - **Bicycle Race** [Completed in: Python]
 - CodeAbbey Problem 069 - **Fibonacci Divisibility** [Completed in: Python]
 - CodeAbbey Problem 071 - **Fibonacci Divisibility Advanced** [Completed in: Python]
+- CodeAbbey Problem 081 - **Bit Count** [*Work-in-progress*]
 - CodeAbbey Problem 094 - **Fool's Day 2014** [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
@@ -365,6 +366,14 @@ Find the index of the first non-zero member of this list, which is evenly divisi
 <a href="http://www.codeabbey.com/index/task_view/fibonacci-divisibility-advanced">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id071-Fibonacci_Divisibility_Advanced.py">Solution</a>
+
+<strong>Problem 81: Bit Count</strong>
+<BR>
+Count the amount of non-zero bits in all given values.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/bit-count">Problem</a>
+<BR>
+<a href="">Solution (Work-In-Progress)</a>
 
 <strong>Problem 94: Fool's Day 2014</strong>
 <BR>
