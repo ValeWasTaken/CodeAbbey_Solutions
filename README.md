@@ -47,7 +47,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 071 - **Fibonacci Divisibility Advanced** [Completed in: Python]
 - CodeAbbey Problem 081 - **Bit Count** [Completed in: Python]
 - CodeAbbey Problem 094 - **Fool's Day 2014** [Completed in: Python]
-- CodeAbbey Problem 104 - **Triangle Area** [Completed in: Brainfuck]
+- CodeAbbey Problem 104 - **Triangle Area** [Completed in: Python]
 - CodeAbbey Problem 114 - **Tricky Printing** [Completed in: Brainfuck]
 
 <h3>Problem descriptions:</h3>
