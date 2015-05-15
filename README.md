@@ -33,6 +33,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 031 - **Rotate String** [Completed in: Python]
 - CodeAbbey Problem 032 - **Josephus Problem** [Completed in: Python]
 - CodeAbbey Problem 035 - **Savings Calculator** [Completed in: Python]
+- CodeAbbey Problem 037 - **Mortgage Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
 - CodeAbbey Problem 048 - **Collatz Sequence** [Completed in: Python]
@@ -270,6 +271,14 @@ Calculate how many years it will take to reach each monetary goal using a start 
 <a href="http://www.codeabbey.com/index/task_view/savings-calculator">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id035-Savings_Calculator.py">Solution</a>
+
+<strong>Problem 37: Mortgage Calculator</strong>
+<BR>
+Calculate the monthly payment for a mortgage.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/mortgage-calculator">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id037-Mortgage_Calculator.py">Solution</a>
 
 <strong>Problem 41: Median of Three</strong>
 <BR>
