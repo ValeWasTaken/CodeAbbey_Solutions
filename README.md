@@ -25,7 +25,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 018 - **Square Root** [Completed in: Python]
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
 - CodeAbbey Problem 021 - **Array Counters** [Completed in: Python]
-- CodeAbbey Problem 023 - **Bubble in Array* [*WORK-IN-PROGRESS*]
+- CodeAbbey Problem 023 - **Bubble in Array** [*WORK-IN-PROGRESS*]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 027 - **Bubble Sort** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
