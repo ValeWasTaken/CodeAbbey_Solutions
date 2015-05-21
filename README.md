@@ -25,6 +25,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 018 - **Square Root** [Completed in: Python]
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
 - CodeAbbey Problem 021 - **Array Counters** [Completed in: Python]
+- CodeAbbey Problem 023 - **Bubble in Array* [*WORK-IN-PROGRESS*]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 027 - **Bubble Sort** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
@@ -208,6 +209,14 @@ Here is an array of length M with numbers in the range 1 ... N, where N is less 
 <a href="http://www.codeabbey.com/index/task_view/array-counters">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id021-Array_Counters.py">Solution</a>
+
+<strong>Problem 23: Bubble in Array</strong>
+<BR>
+Swap values in an array of numbers so that if a number is greater than the one before it their places are switched. Then display the amount of swaps made and the checksum of the final solution.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/bubble-in-array">Problem</a>
+<BR>
+<a href="">Solution not yet finished.</a>
 
 <strong>Problem 26: GCD and LCM</strong>
 <BR>
