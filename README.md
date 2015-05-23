@@ -37,6 +37,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 037 - **Mortgage Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
+- CodeAbbey Problem 047 - **Caesar Shift Cipher** [*WORK-IN-PROGRESS*]
 - CodeAbbey Problem 048 - **Collatz Sequence** [Completed in: Python]
 - CodeAbbey Problem 049 - **Rock Paper Scissors** [Completed in: Python]
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
@@ -305,6 +306,14 @@ Convert values with floating point to one of six integer numbers: from 1 to 6.
 <a href="http://www.codeabbey.com/index/task_view/dice-rolling">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id043-Dice_Rolling.py">Solution</a>
+
+<strong>Problem 47: Ceasar Shift Cipher</strong>
+<BR>
+Decrypt the set of messages with a Caesar shift cipher. (I also added an encrypt option for fun.)
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/caesar-shift-cipher">Problem</a>
+<BR>
+<a href="">Solution in progress</a>
 
 <strong>Problem 48: Collatz Sequence</strong>
 <BR>
