@@ -37,7 +37,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 037 - **Mortgage Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
-- CodeAbbey Problem 047 - **Caesar Shift Cipher** [*WORK-IN-PROGRESS*]
+- CodeAbbey Problem 047 - **Caesar Shift Cipher** [Completed in: Python]
 - CodeAbbey Problem 048 - **Collatz Sequence** [Completed in: Python]
 - CodeAbbey Problem 049 - **Rock Paper Scissors** [Completed in: Python]
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
@@ -313,7 +313,7 @@ Decrypt the set of messages with a Caesar shift cipher. (I also added an encrypt
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/caesar-shift-cipher">Problem</a>
 <BR>
-<a href="">Solution in progress</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id047-Caesar_Shift_Cipher.py">Solution</a>
 
 <strong>Problem 48: Collatz Sequence</strong>
 <BR>
