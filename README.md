@@ -44,6 +44,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 052 - **Pythagorean Theorem** [Completed in: Python]
 - CodeAbbey Problem 055 - **Matching Words** [Completed in: Python]
 - CodeAbbey Problem 057 - **Smoothing the Weather** [Completed in: Python]
+- CodeAbbey Problem 061 - **Prime Numbers Generation** [Completed in: Python]
 - CodeAbbey Problem 067 - **Fibonacci Sequence** [Completed in: Python]
 - CodeAbbey Problem 068 - **Bicycle Race** [Completed in: Python]
 - CodeAbbey Problem 069 - **Fibonacci Divisibility** [Completed in: Python]
@@ -364,6 +365,15 @@ Return a list of temperatures by replacing each value with the average of it and
 <a href="http://www.codeabbey.com/index/task_view/smoothing-the-weather">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id057-Smoothing_the_Weather.py">Solution</a>
+
+<strong>Problem 61: Prime Numbers Generation</strong>
+<BR>
+Generate an array of prime numbers and then find the nth prime numbers of given numbers.
+EX: *7 1 199999 4* input should return the output: *17 2 2750131 7*
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/prime-numbers-generation">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id061-Prime_Numbers_Generation.py">Solution</a>
 
 <strong>Problem 67: Fibonacci Sequence</strong>
 <BR>
