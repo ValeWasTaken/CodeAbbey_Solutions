@@ -38,6 +38,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
 - CodeAbbey Problem 044 - **Double Dice Roll** [Completed in: Python]
+- CodeAbbey Problem 046 - **Tic-Tac-Toe** [*WORK-IN-PROGRESS*]
 - CodeAbbey Problem 047 - **Caesar Shift Cipher** [Completed in: Python]
 - CodeAbbey Problem 048 - **Collatz Sequence** [Completed in: Python]
 - CodeAbbey Problem 049 - **Rock Paper Scissors** [Completed in: Python]
@@ -316,6 +317,14 @@ Convert dice roll values of 0 to 2,000,000,000 to the 1-6 range and then add the
 <a href="http://www.codeabbey.com/index/task_view/double-dice-roll">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id044-Double_Dice_Roll.py">Solution</a>
+
+<strong>Problem 46: Tic-Tac-Toe</strong>
+<BR>
+Determine the winning turn in each game of Tic-Tac-Toe (or if it resulted in a draw)
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/tic-tac-toe">Problem</a>
+<BR>
+<a href="">Solution-in-progress</a>
 
 <strong>Problem 47: Ceasar Shift Cipher</strong>
 <BR>
