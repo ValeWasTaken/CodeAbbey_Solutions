@@ -38,7 +38,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
 - CodeAbbey Problem 044 - **Double Dice Roll** [Completed in: Python]
-- CodeAbbey Problem 046 - **Tic-Tac-Toe** [*WORK-IN-PROGRESS*]
+- CodeAbbey Problem 046 - **Tic-Tac-Toe** [Completed in: Python]
 - CodeAbbey Problem 047 - **Caesar Shift Cipher** [Completed in: Python]
 - CodeAbbey Problem 048 - **Collatz Sequence** [Completed in: Python]
 - CodeAbbey Problem 049 - **Rock Paper Scissors** [Completed in: Python]
@@ -324,7 +324,7 @@ Determine the winning turn in each game of Tic-Tac-Toe (or if it resulted in a d
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/tic-tac-toe">Problem</a>
 <BR>
-<a href="">Solution-in-progress</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id046-Tic_Tac_Toe.py">Solution</a>
 
 <strong>Problem 47: Ceasar Shift Cipher</strong>
 <BR>
