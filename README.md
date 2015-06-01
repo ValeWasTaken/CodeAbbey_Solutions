@@ -23,6 +23,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 016 - **Average of an array** [Completed in: Python]
 - CodeAbbey Problem 017 - **Array Checksum** [Completed in: Python]
 - CodeAbbey Problem 018 - **Square Root** [Completed in: Python]
+- CodeAbbey Problem 019 - **Matching Brackets** [Completed in: Python]
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
 - CodeAbbey Problem 021 - **Array Counters** [Completed in: Python]
 - CodeAbbey Problem 023 - **Bubble in Array** [Completed in: Python]]
@@ -197,6 +198,14 @@ Write a program using Heron's method to generate square roots within at least 1e
 <a href="http://www.codeabbey.com/index/task_view/square-root">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id018-Square_Root.py">Solution</a>
+
+<strong>Problem 19: Matching Brackets</strong>
+<BR>
+Check a series of strings and return for each string if all brackets within have been used in the correct sequence.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/matching-brackets">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id019-Matching_Brackets.py">Solution</a>
 
 <strong>Problem 20: Vowel Count</strong>
 <BR>
