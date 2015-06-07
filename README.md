@@ -238,7 +238,7 @@ You will be given initial numbers for several sequences. For each of them report
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/neumanns-random-generator">Problem</a>
 <BR>
-<a href="">Solution (In Progress)</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id024-Neumanns_Random_Generator.py">Solution</a>
 
 <strong>Problem 26: GCD and LCM</strong>
 <BR>
