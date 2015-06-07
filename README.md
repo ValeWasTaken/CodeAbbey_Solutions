@@ -26,7 +26,8 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 019 - **Matching Brackets** [Completed in: Python]
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
 - CodeAbbey Problem 021 - **Array Counters** [Completed in: Python]
-- CodeAbbey Problem 023 - **Bubble in Array** [Completed in: Python]]
+- CodeAbbey Problem 023 - **Bubble in Array** [Completed in: Python]
+- CodeAbbey Problem 024 - **Neumann's Random Generator** [Completed in: Python]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 027 - **Bubble Sort** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
@@ -230,6 +231,14 @@ Swap values in an array of numbers so that if a number is greater than the one b
 <a href="http://www.codeabbey.com/index/task_view/bubble-in-array">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id023-Bubble_in_Array.py">Solution</a>
+
+<strong>Problem 24: Neumann's Random Generator</strong>
+<BR>
+You will be given initial numbers for several sequences. For each of them report the number of iterations needed to come to repetition using Neumann's Random Generator.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/neumanns-random-generator">Problem</a>
+<BR>
+<a href="">Solution (In Progress)</a>
 
 <strong>Problem 26: GCD and LCM</strong>
 <BR>
