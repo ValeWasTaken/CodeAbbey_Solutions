@@ -28,6 +28,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 021 - **Array Counters** [Completed in: Python]
 - CodeAbbey Problem 023 - **Bubble in Array** [Completed in: Python]
 - CodeAbbey Problem 024 - **Neumann's Random Generator** [Completed in: Python]
+- CodeAbbey Problem 025 - **Linear Congruential Generator** [Completed in: Python]
 - CodeAbbey Problem 026 - **GCD and LCM** [Completed in: Python]
 - CodeAbbey Problem 027 - **Bubble Sort** [Completed in: Python]
 - CodeAbbey Problem 028 - **Body Mass Index** [Completed in: Python]
@@ -239,6 +240,14 @@ You will be given initial numbers for several sequences. For each of them report
 <a href="http://www.codeabbey.com/index/task_view/neumanns-random-generator">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id024-Neumanns_Random_Generator.py">Solution</a>
+
+<strong>Problem 25: Linear Congruential Generator</strong>
+<BR>
+Generate the Nth number for each set of input ran through the Linear Congruential Generator.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/linear-congruential-generator">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id025-Linear_Congruential_Generator.py">Solution</a>
 
 <strong>Problem 26: GCD and LCM</strong>
 <BR>
