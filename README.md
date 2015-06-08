@@ -59,6 +59,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 - CodeAbbey Problem 104 - **Triangle Area** [Completed in: Python]
 - CodeAbbey Problem 114 - **Tricky Printing** [Completed in: Brainfuck]
 - CodeAbbey Problem 128 - **Combinations Counting** [Completed in: Python]
+- CodeAbbey Problem 135 - **Variable Length Code** [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
 
@@ -489,5 +490,13 @@ Print the assigned number in Brainfuck.
 Find the amount of possible combinations with all test cases.
 <BR>
 <a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id128-Combinations_Counting.py">Solution</a>
+
+<strong>Problem 135: Variable Length Code</strong>
+<BR>
+Convert a string into assigned values and then encode by converting it then into hex.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/variable-length-code">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id128-Combinations_Counting.py">Solution</a>
