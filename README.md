@@ -49,6 +49,7 @@ Code Abbey profile page: <a href="http://www.codeabbey.com/index/user_profile/kh
 - CodeAbbey Problem 049 - **Rock Paper Scissors** [Completed in: Python]
 - CodeAbbey Problem 050 - **Palindromes** [Completed in: Python]
 - CodeAbbey Problem 052 - **Pythagorean Theorem** [Completed in: Python]
+- CodeAbbey Problem 054 - **Card Names** [Completed in: Python]
 - CodeAbbey Problem 055 - **Matching Words** [Completed in: Python]
 - CodeAbbey Problem 057 - **Smoothing the Weather** [Completed in: Python]
 - CodeAbbey Problem 061 - **Prime Numbers Generation** [Completed in: Python]
@@ -397,6 +398,14 @@ Determine if each triangle is right, acute, or obtuse.
 <a href="http://www.codeabbey.com/index/task_view/pythagorean-theorem">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id052-Pythagorean_Theorem.py">Solution</a>
+
+<strong>Problem 54: Card Names</strong>
+<BR>
+Use a number to determine the suit and name of each card.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/card-names">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id058-Card_Names.py">Solution</a>
 
 <strong>Problem 55: Matching Words</strong>
 <BR>
