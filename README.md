@@ -41,6 +41,7 @@ Code Abbey profile page: <a href="http://www.codeabbey.com/index/user_profile/kh
 - CodeAbbey Problem 035 - **Savings Calculator** [Completed in: Python]
 - CodeAbbey Problem 037 - **Mortgage Calculator** [Completed in: Python]
 - CodeAbbey Problem 041 - **Median of Three** [Completed in: Python]
+- CodeAbbey Problem 042 - **Blackjack Counting** [Completed in: Python]
 - CodeAbbey Problem 043 - **Dice Rolling** [Completed in: Python]
 - CodeAbbey Problem 044 - **Double Dice Roll** [Completed in: Python]
 - CodeAbbey Problem 046 - **Tic-Tac-Toe** [Completed in: Python]
@@ -333,6 +334,14 @@ Find the median number of each set of three numbers.
 <a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id041-Median_of_Three.py">Solution</a>
+
+<strong>Problem 42: Blackjack Counting</strong>
+<BR>
+Determine the best value of each Blackjack hand.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/blackjack-counting">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id042-Blackjack_Counting.py">Solution</a>
 
 <strong>Problem 43: Dice Rolling</strong>
 <BR>
