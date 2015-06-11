@@ -52,6 +52,7 @@ Code Abbey profile page: <a href="http://www.codeabbey.com/index/user_profile/kh
 - CodeAbbey Problem 054 - **Card Names** [Completed in: Python]
 - CodeAbbey Problem 055 - **Matching Words** [Completed in: Python]
 - CodeAbbey Problem 057 - **Smoothing the Weather** [Completed in: Python]
+- CodeAbbey Problem 059 - **Bulls and Crows** [Completed in: Python]
 - CodeAbbey Problem 061 - **Prime Numbers Generation** [Completed in: Python]
 - CodeAbbey Problem 067 - **Fibonacci Sequence** [Completed in: Python]
 - CodeAbbey Problem 068 - **Bicycle Race** [Completed in: Python]
@@ -422,6 +423,14 @@ Return a list of temperatures by replacing each value with the average of it and
 <a href="http://www.codeabbey.com/index/task_view/smoothing-the-weather">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id057-Smoothing_the_Weather.py">Solution</a>
+
+<strong>Problem 59: Bulls and Crows</strong>
+<BR>
+Record the number of exactly matching (number and position) numbers and numbers that are correct but in the wrong position and then return the amounts for each number in the data set.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/bulls-and-cows">Problem</a>
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id059-Bulls_and_Crows.py">Solution</a>
 
 <strong>Problem 61: Prime Numbers Generation</strong>
 <BR>
