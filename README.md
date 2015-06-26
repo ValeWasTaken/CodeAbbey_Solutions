@@ -6,6 +6,7 @@ CodeAbbey problems and the solutions I made for them.
 A list of all problems can be found here: http://www.codeabbey.com/index/task_list
 <BR>
 Code Abbey profile page: <a href="http://www.codeabbey.com/index/user_profile/khantler">Link</a>
+Side-Note: Any solutions in Python with the version number not specified at the top are in Python 2.7
 
 <h2>Table of Contents:</h2>
 - CodeAbbey Problem 001 - **Sum "A+B"** [Completed in: Python]
