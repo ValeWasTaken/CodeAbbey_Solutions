@@ -66,6 +66,7 @@ Note: Any solutions in Python with the version number not specified at the top s
 - CodeAbbey Problem 094 - **Fool's Day 2014** [Completed in: Python]
 - CodeAbbey Problem 104 - **Triangle Area** [Completed in: Python]
 - CodeAbbey Problem 114 - **Tricky Printing** [Completed in: Brainfuck]
+- CodeAbbey Problem 120 - **Selection Sort** [*Work-In-Progress*]
 - CodeAbbey Problem 128 - **Combinations Counting** [Completed in: Python]
 - CodeAbbey Problem 135 - **Variable Length Code** [Completed in: Python]
 
@@ -516,6 +517,14 @@ Print the assigned number in Brainfuck.
 <a href="http://www.codeabbey.com/index/task_view/tricky-printing">Problem</a>
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Brainfuck/id114-Tricky_Printing.bf">Solution</a>
+
+<strong>Problem 120: Selection Sort</strong>
+<BR>
+Implement the selection sort algorithm described and print out the index of selected maximum at each pass.
+<BR>
+<a href="http://www.codeabbey.com/index/task_view/selection-sort">Problem</a>
+<BR>
+<a href="">Solution (work-in-progress)</a>
 
 <strong>Problem 128: Combinations Counting</strong>
 <BR>
