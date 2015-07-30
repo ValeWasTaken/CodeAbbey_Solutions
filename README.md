@@ -73,468 +73,354 @@ Note: Any solutions in Python with the version number not specified at the top s
 <h3>Problem descriptions:</h3>
 
 
-<strong>Problem 1: Sum "A+B"</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/sum-of-two">Problem 1</a>: Sum "A+B"</strong>
 <BR>
 You are to add two numbers and tell their sum. 
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/sum-of-two">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id001-Sum_of_two.py">Solution</a>
 
-<strong>Problem 2: Sum in Loop</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/sum-in-loop">Problem 2</a>: Sum in Loop</strong>
 <BR>
 You are to find sum of several numbers (more than two).
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/sum-in-loop">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id002-Sum_in_loop.py">Solution</a>
 
-<strong>Problem 3: Sums in Loops</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/sums-in-loop">Problem 3</a>: Sums in Loops</strong>
 <BR>
 You will be given several pairs of values and you need to calculate sum for each pair. 
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/sums-in-loop">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id003-Sums_in_loop.py">Solution</a>
 
-<strong>Problem 4: Minimum of Two</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/min-of-two">Problem 4</a>: Minimum of Two</strong>
 <BR>
 Of two numbers, please, select one with minimum value.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/min-of-two">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id004-Minimum_of_Two.py">Solution</a>
 
-<strong>Problem 5: Minimum of Three</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/min-of-three">Problem 5</a>: Minimum of Three</strong>
 <BR>
 Several triplets of numbers are given to you. Your task is to select minimum among each of triplets.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/min-of-three">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id005-Minimum_of_Three.py">Solution</a>
 
-<strong>Problem 6: Rounding</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/rounding">Problem 6</a>: Rounding</strong>
 <BR>
 There are several pairs of numbers. For each pair you are to divide first by second and return the result, rounded to nearest integer.
 In cases, when result contains exactly 0.5 as a fraction part, value should be rounded up.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/rounding">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id006-Rounding.py">Solution</a>
 
-<strong>Problem 7: Fahrenheit to Celsius</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/fahrenheit-celsius">Problem 7</a>: Fahrenheit to Celsius</strong>
 <BR>
 You are to write program to convert degrees of Fahrenheit to Celsius.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/fahrenheit-celsius">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id007-Fahrenheit_to_Celsius.py">Solution</a>
 
-<strong>Problem 8: Arithmetic Progression</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/arithmetic-progression">Problem 8</a>: Arithmetic Progression</strong>
 <BR>
 Calculate sums of arithmetic progression.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/arithmetic-progression">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id008-Arithmetic_Progression.py">Solution</a>
 
-<strong>Problem 9: Triangles</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/triangles">Problem 9</a>: Triangles</strong>
 <BR>
 You are given several triplets of values representing lengths of the sides of triangles. You should tell from which triplets it is possible to build triangle and for which it is not.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/triangles">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id009-Triangles.py">Solution</a>
 
-<strong>Problem 11: Sum of digits</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/sum-of-digits">Problem 11</a>: Sum of digits</strong>
 <BR>
 Find the sum of (A*B) + C and then find the sum of that sum's digits for each line.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/sum-of-digits">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id011-Sum_of_digits.py">Solution</a>
 
-<strong>Problem 12: Modulo and time difference</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/modulo-and-time-difference">Problem 12</a>: Modulo and time difference</strong>
 <BR>
 Calculate the difference in days, hours, minutes, and seconds between two times.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/modulo-and-time-difference">Problem</a>
-<BR>
 <a href="">Solution</a>
 
-<strong>Problem 13: Weighted sum of digits</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/weighted-sum-of-digits">Problem 13</a>: Weighted sum of digits</strong>
 <BR>
 Calculate the weighted sum of digits.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/weighted-sum-of-digits">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id013-Weighted_sum_of_digits.py">Solution</a>
 
-<strong>Problem 14: Modular Calculator</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/modular-calculator">Problem 14</a>: Modular Calculator</strong>
 <BR>
 Find the remainder of the result of all operations applied sequentially (starting with initial number) divided by the last number.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/modular-calculator">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id014-Modular_Calculator.py">Solution</a>
 
-<strong>Problem 15: Maximum of array</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/maximum-of-array">Problem 15</a>: Maximum of array</strong>
 <BR>
 Input data will give you exactly 300 numbers in a single line.
 Answer should contain maximum and minimum of these values, separated by space.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/maximum-of-array">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id015-Maximum_of_array.py">Solution</a>
 
-<strong>Problem 16: Average of an array</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/average-of-array">Problem 16</a>: Average of an array</strong>
 <BR>
 You will be given several arrays, for each of which you are to find an average value. 0s do not count. All answers rounded.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/average-of-array">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id016-Average_of_an_array.py">Solution</a>
 
-<strong>Problem 17: Array Checksum</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/array-checksum">Problem 17</a>: Array Checksum</strong>
 <BR>
 Calculate the checksum for an array.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/array-checksum">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id017-Array_Checksum.py">Solution</a>
 
-<strong>Problem 18: Square Root</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/square-root">Problem 18</a>: Square Root</strong>
 <BR>
 Write a program using Heron's method to generate square roots within at least 1e-7 = 0.0000001 of accurancy.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/square-root">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id018-Square_Root.py">Solution</a>
 
-<strong>Problem 19: Matching Brackets</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/matching-brackets">Problem 19</a>: Matching Brackets</strong>
 <BR>
 Check a series of strings and return for each string if all brackets within have been used in the correct sequence.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/matching-brackets">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id019-Matching_Brackets.py">Solution</a>
 
-<strong>Problem 20: Vowel Count</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/vowel-count">Problem 20</a>: Vowel Count</strong>
 <BR>
 You will be given several lines of text - and for each of them you should tell the number of vowels (i.e. letters a, o, u, i, e, y). Note: that y is regarded as vowel for purpose of this task.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/vowel-count">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id020-Vowel_Count.py">Solution</a>
 
-<strong>Problem 21: Array Counters</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/array-counters">Problem 21</a>: Array Counters</strong>
 <BR>
 Here is an array of length M with numbers in the range 1 ... N, where N is less than or equal to 20. You are to go through it and count how many times each number is encountered.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/array-counters">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id021-Array_Counters.py">Solution</a>
 
-<strong>Problem 23: Bubble in Array</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/bubble-in-array">Problem 23</a>: Bubble in Array</strong>
 <BR>
 Swap values in an array of numbers so that if a number is greater than the one before it their places are switched. Then display the amount of swaps made and the checksum of the final solution.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/bubble-in-array">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id023-Bubble_in_Array.py">Solution</a>
 
-<strong>Problem 24: Neumann's Random Generator</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/neumanns-random-generator">Problem 24</a>: Neumann's Random Generator</strong>
 <BR>
 You will be given initial numbers for several sequences. For each of them report the number of iterations needed to come to repetition using Neumann's Random Generator.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/neumanns-random-generator">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id024-Neumanns_Random_Generator.py">Solution</a>
 
-<strong>Problem 25: Linear Congruential Generator</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/linear-congruential-generator">Problem 25</a>: Linear Congruential Generator</strong>
 <BR>
 Generate the Nth number for each set of input ran through the Linear Congruential Generator.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/linear-congruential-generator">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id025-Linear_Congruential_Generator.py">Solution</a>
 
-<strong>Problem 26: GCD and LCM</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/greatest-common-divisor">Problem 26</a>: GCD and LCM</strong>
 <BR>
 Find the least common multiplier and greater common divisor for every pair of numbers.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/greatest-common-divisor">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id026-GCD_and_LCM.py">Solution</a>
 
-<strong>Problem 27: Bubble Sort</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/bubble-sort">Problem 27</a>: Bubble Sort</strong>
 <BR>
 Use the bubble sort method, then calculate the number of swaps and passes used in the sorting.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/bubble-sort">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id027-Bubble_Sort.py">Solution</a>
 
-<strong>Problem 28: Body Mass Index</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/body-mass-index">Problem 28</a>: Body Mass Index</strong>
 <BR>
 Calculate BMI multiple BMI values and assign whether they are under, normal, over, or obese BMIs.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/body-mass-index">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id028-Body_Mass_Index.py">Solution</a>
 
-<strong>Problem 29: Sort with Indexes</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/sort-with-indexes">Problem 29</a>: Sort with Indexes</strong>
 <BR>
 Sort a given array of numbers and then for each value (in non-decreasing order) its initial index should be printed.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/sort-with-indexes">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id029-Sort_with_Indexes.py">Solution</a>
 
-<strong>Problem 30: Reverse String</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/reverse-string">Problem 30</a>: Reverse String</strong>
 <BR>
 Reverse the string of text.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/reverse-string">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id030-Reverse_String.py">Solution</a>
 
-<strong>Problem 31: Rotate String</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/rotate-string">Problem 31</a>: Rotate String</strong>
 <BR>
 Rotate string by K characters means to cut these characters from the beginning and transfer them to the end. If K is negative, characters, on contrary should be transferred from the end to the beginning.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/rotate-string">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id031-Rotate_String.py">Solution</a>
 
-<strong>Problem 32: Josephus Problem</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/josephus-problem">Problem 32</a>: Josephus Problem</strong>
 <BR>
 Calculate who will be the survivor given the amount of participants and the dividing factor chosen for the Josephus problem.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/josephus-problem">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id032-Josephus_Problem.py">Solution</a>
 
-<strong>Problem 35: Savings Calculator</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/savings-calculator">Problem 35</a>: Savings Calculator</strong>
 <BR>
 Calculate how many years it will take to reach each monetary goal using a start amount, end amount, and interest rate.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/savings-calculator">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id035-Savings_Calculator.py">Solution</a>
 
-<strong>Problem 37: Mortgage Calculator</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/mortgage-calculator">Problem 37</a>: Mortgage Calculator</strong>
 <BR>
 Calculate the monthly payment for a mortgage.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/mortgage-calculator">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id037-Mortgage_Calculator.py">Solution</a>
 
-<strong>Problem 41: Median of Three</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem 41</a>: Median of Three</strong>
 <BR>
 Find the median number of each set of three numbers.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/median-of-three">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id041-Median_of_Three.py">Solution</a>
 
-<strong>Problem 42: Blackjack Counting</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/blackjack-counting">Problem 42</a>: Blackjack Counting</strong>
 <BR>
 Determine the best value of each Blackjack hand.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/blackjack-counting">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id042-Blackjack_Counting.py">Solution</a>
 
-<strong>Problem 43: Dice Rolling</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/dice-rolling">Problem 43</a>: Dice Rolling</strong>
 <BR>
 Convert values with floating point to one of six integer numbers: from 1 to 6.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/dice-rolling">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id043-Dice_Rolling.py">Solution</a>
 
-<strong>Problem 44: Double Dice Roll</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/double-dice-roll">Problem 44</a>: Double Dice Roll</strong>
 <BR>
 Convert dice roll values of 0 to 2,000,000,000 to the 1-6 range and then add them together.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/double-dice-roll">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id044-Double_Dice_Roll.py">Solution</a>
 
-<strong>Problem 46: Tic-Tac-Toe</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/tic-tac-toe">Problem 46</a>: Tic-Tac-Toe</strong>
 <BR>
 Determine the winning turn in each game of Tic-Tac-Toe (or if it resulted in a draw)
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/tic-tac-toe">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id046-Tic_Tac_Toe.py">Solution</a>
 
-<strong>Problem 47: Ceasar Shift Cipher</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/caesar-shift-cipher">Problem 47</a>: Ceasar Shift Cipher</strong>
 <BR>
 Decrypt the set of messages with a Caesar shift cipher. (I also added an encrypt option for fun.)
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/caesar-shift-cipher">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id047-Caesar_Shift_Cipher.py">Solution</a>
 
-<strong>Problem 48: Collatz Sequence</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/collatz-sequence">Problem 48</a>: Collatz Sequence</strong>
 <BR>
 Run each number through the Collatz Sequence and determine how many times it must be processed before it reaches the number "1".
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/collatz-sequence">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id048-Collatz_Sequence.py">Solution</a>
 
-<strong>Problem 49: Rock Paper Scissors</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/rock-paper-scissors">Problem 49</a>: Rock Paper Scissors</strong>
 <BR>
 You will be given several records of played R.P.S. games. You are to tell for each of them who of players won.
 Note: They specified there would be no ties so I didn't add in a "tie game" ending.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/rock-paper-scissors">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id049-Rock_Paper_Scissors.py">Solution</a>
 
-<strong>Problem 50: Palindromes</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/palindromes">Problem 50</a>: Palindromes</strong>
 <BR>
 Your goal in this programming exercise is to determine, whether the phrase represents a palindrome or not.
 Note: Spaces, capitalization, and punctuations are to be ignored.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/palindromes">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id050-Palindromes.py">Solution</a>
 
-<strong>Problem 52: Pythagorean Theorem</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/pythagorean-theorem">Problem 52</a>: Pythagorean Theorem</strong>
 <BR>
 Determine if each triangle is right, acute, or obtuse.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/pythagorean-theorem">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id052-Pythagorean_Theorem.py">Solution</a>
 
-<strong>Problem 54: Card Names</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/card-names">Problem 54</a>: Card Names</strong>
 <BR>
 Use a number to determine the suit and name of each card.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/card-names">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id058-Card_Names.py">Solution</a>
 
-<strong>Problem 55: Matching Words</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/matching-words">Problem 55</a>: Matching Words</strong>
 <BR>
 Sort through hundreds of words and print out the list of repeated words in alphabetical order.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/matching-words">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id055-Matching_Words.py">Solution</a>
 
-<strong>Problem 57: Smoothing the Weather</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/smoothing-the-weather">Problem 57</a>: Smoothing the Weather</strong>
 <BR>
 Return a list of temperatures by replacing each value with the average of it and the two beside it to provide a smooth final report.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/smoothing-the-weather">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id057-Smoothing_the_Weather.py">Solution</a>
 
-<strong>Problem 59: Bulls and Crows</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/bulls-and-cows">Problem 59</a>: Bulls and Crows</strong>
 <BR>
 Record the number of exactly matching (number and position) numbers and numbers that are correct but in the wrong position and then return the amounts for each number in the data set.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/bulls-and-cows">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id059-Bulls_and_Crows.py">Solution</a>
 
-<strong>Problem 61: Prime Numbers Generation</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/prime-numbers-generation">Problem 61</a>: Prime Numbers Generation</strong>
 <BR>
 Generate an array of prime numbers and then find the nth prime numbers of given numbers.
 EX: *7 1 199999 4* input should return the output: *17 2 2750131 7*
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/prime-numbers-generation">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id061-Prime_Numbers_Generation.py">Solution</a>
 
-<strong>Problem 67: Fibonacci Sequence</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/fibonacci-sequence">Problem 67</a>: Fibonacci Sequence</strong>
 <BR>
 You will be given several Fibonacci numbers. Your task is to tell their indices in the sequence.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/fibonacci-sequence">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id067-Fibonacci_Sequence.py">Solution</a>
 
-<strong>Problem 68: Bicycle Race</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/bicycle-race">Problem 68</a>: Bicycle Race</strong>
 <BR>
 You will be given the distance between cities S (in kilometers) and speed values for two bicyclists (A and B in kilometers per hour). Your task is to find their meeting point (its distance from the first of cities).
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/bicycle-race">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id068-Bicycle_Race.py">Solution</a>
 
-<strong>Problem 69: Fibonacci Divisibility</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/fibonacci-divisibility">Problem 69</a>: Fibonacci Divisibility</strong>
 <BR>
 Find the index of the first non-zero member of this list, which is evenly divisible by this M, e.g. if you are given M = 17 the answer is 9 (the index of the element 34.) For all numbers given.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/fibonacci-divisibility">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id069-Fibonacci_Divisibility.py">Solution</a>
 
-<strong>Problem 71: Fibonacci Divisibility Advanced</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/fibonacci-divisibility-advanced">Problem 71</a>: Fibonacci Divisibility Advanced</strong>
 <BR>
 Find the index of the first non-zero member of this list, which is evenly divisible by this M, e.g. if you are given M = 17 the answer is 9 (the index of the element 34.) For all numbers given. The difference from the problem #69 is that the numbers inputted into this program are around 8 figures while problem #69 was around 1-2 figures.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/fibonacci-divisibility-advanced">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id071-Fibonacci_Divisibility_Advanced.py">Solution</a>
 
-<strong>Problem 81: Bit Count</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/bit-count">Problem 81</a>: Bit Count</strong>
 <BR>
 Count the amount of non-zero bits in all given values.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/bit-count">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id081-Bit_Count.py">Solution</a>
 
-<strong>Problem 94: Fool's Day 2014</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/fools-day-2014">Problem 94</a>: Fool's Day 2014</strong>
 <BR>
 Create the solving algorithm with only a set of test data. (No problem description)
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/fools-day-2014">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id094_Fool%27s_Day_2014.py">Solution</a>
 
-<strong>Problem 104: Triangle Area</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/triangle-area">Problem 104</a>: Triangle Area</strong>
 <BR>
 Find the area of all triangles only using the vertices.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/triangle-area">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id104-Triangle_Area.py">Solution</a>
 
-<strong>Problem 114: Tricky Printing</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/tricky-printing">Problem 114</a>: Tricky Printing</strong>
 <BR>
 Print the assigned number in Brainfuck.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/tricky-printing">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Brainfuck/id114-Tricky_Printing.bf">Solution</a>
 
-<strong>Problem 120: Selection Sort</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/selection-sort">Problem 120</a>: Selection Sort</strong>
 <BR>
 Implement the selection sort algorithm described and print out the index of selected maximum at each pass.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/selection-sort">Problem</a>
-<BR>
 <a href="">Solution (work-in-progress)</a>
 
-<strong>Problem 128: Combinations Counting</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem 128</a>: Combinations Counting</strong>
 <BR>
 Find the amount of possible combinations with all test cases.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id128-Combinations_Counting.py">Solution</a>
 
-<strong>Problem 135: Variable Length Code</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/variable-length-code">Problem 135</a>: Variable Length Code</strong>
 <BR>
 Convert a string into assigned values and then encode by converting it then into hex.
 <BR>
