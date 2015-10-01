@@ -415,7 +415,7 @@ Implement the selection sort algorithm described and print out the index of sele
 <BR>
 <a href="">Solution (work-in-progress)</a>
 
-<strong><a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem 127</a>: Combinations Counting</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/anagrams">Problem 127</a>: Anagrams</strong>
 <BR>
 Find all anagrams in the dictionary file given for each word.
 <BR>
