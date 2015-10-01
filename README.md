@@ -67,6 +67,7 @@ Note: Any solutions in Python with the version number not specified at the top s
 - CodeAbbey Problem 104 - **Triangle Area** [Completed in: Python]
 - CodeAbbey Problem 114 - **Tricky Printing** [Completed in: Brainfuck]
 - CodeAbbey Problem 120 - **Selection Sort** [*Work-In-Progress*]
+- CodeAbbey Problem 127 - **Anagrams** [Completed in: Python]
 - CodeAbbey Problem 128 - **Combinations Counting** [Completed in: Python]
 - CodeAbbey Problem 135 - **Variable Length Code** [Completed in: Python]
 
@@ -413,6 +414,12 @@ Print the assigned number in Brainfuck.
 Implement the selection sort algorithm described and print out the index of selected maximum at each pass.
 <BR>
 <a href="">Solution (work-in-progress)</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem 127</a>: Combinations Counting</strong>
+<BR>
+Find all anagrams in the dictionary file given for each word.
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id127-Anagrams.py">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/combinations-counting">Problem 128</a>: Combinations Counting</strong>
 <BR>
