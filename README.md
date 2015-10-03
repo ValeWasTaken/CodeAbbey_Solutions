@@ -58,7 +58,7 @@ Note: Any solutions in Python with the version number not specified at the top s
 - CodeAbbey Problem 057 - **Smoothing the Weather** [Completed in: Python]
 - CodeAbbey Problem 059 - **Bulls and Crows** [Completed in: Python]
 - CodeAbbey Problem 061 - **Prime Numbers Generation** [Completed in: Python]
-- CodeAbbey Problem 062 - **Prime Rangers** [*Work-In-Progress*]
+- CodeAbbey Problem 062 - **Prime Ranges** [Completed in: Python]
 - CodeAbbey Problem 067 - **Fibonacci Sequence** [Completed in: Python]
 - CodeAbbey Problem 068 - **Bicycle Race** [Completed in: Python]
 - CodeAbbey Problem 069 - **Fibonacci Divisibility** [Completed in: Python]
@@ -360,13 +360,13 @@ Record the number of exactly matching (number and position) numbers and numbers 
 Generate an array of prime numbers and then find the nth prime numbers of given numbers.
 EX: *7 1 199999 4* input should return the output: *17 2 2750131 7*
 <BR>
-<a href="">Solution</a>
-<strong><a href="http://www.codeabbey.com/index/task_view/prime-ranges">Problem 61</a>: Prime Numbers Generation</strong>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id061-Prime_Numbers_Generation.py">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/prime-ranges">Problem 62</a>: Prime Ranges</strong>
 <BR>
 Count the amount of prime numbers within the range of each pair of 7-digit numbers given.
 <BR>
-<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id061-Prime_Numbers_Generation.py">Solution</a>
-
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id062-Prime_Ranges.py">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/fibonacci-sequence">Problem 67</a>: Fibonacci Sequence</strong>
 <BR>
