@@ -438,6 +438,4 @@ Find the amount of possible combinations with all test cases.
 <BR>
 Convert a string into assigned values and then encode by converting it then into hex.
 <BR>
-<a href="http://www.codeabbey.com/index/task_view/variable-length-code">Problem</a>
-<BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id128-Combinations_Counting.py">Solution</a>
