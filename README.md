@@ -420,7 +420,6 @@ Print the assigned number in Brainfuck.
 <BR>
 Implement the selection sort algorithm described and print out the index of selected maximum at each pass.
 <BR>
-<a href="">Solution (work-in-progress)</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/anagrams">Problem 127</a>: Anagrams</strong>
 <BR>
