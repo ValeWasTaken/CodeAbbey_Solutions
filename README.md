@@ -71,6 +71,7 @@ Note: Any solutions in Python with the version number not specified at the top s
 - CodeAbbey Problem 127 - **Anagrams** [Completed in: Python]
 - CodeAbbey Problem 128 - **Combinations Counting** [Completed in: Python]
 - CodeAbbey Problem 135 - **Variable Length Code** [Completed in: Python]
+- CodeAbbey Problem 157 - **Emirp primE**[Completed in: Python]
 
 <h3>Problem descriptions:</h3>
 
@@ -438,3 +439,9 @@ Find the amount of possible combinations with all test cases.
 Convert a string into assigned values and then encode by converting it then into hex.
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id128-Combinations_Counting.py">Solution</a>
+
+<strong><a href="">Problem 157</a>: Emirp primE</strong>
+<BR>
+Find the closest larger prime number to each given input where the prime number will remain a prime number even if it is reversed.
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id157_Emirp_primE.py">Solution</a>
