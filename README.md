@@ -71,7 +71,7 @@ Note: Any solutions in Python with the version number not specified at the top s
 - CodeAbbey Problem 127 - **Anagrams** [Completed in: Python]
 - CodeAbbey Problem 128 - **Combinations Counting** [Completed in: Python]
 - CodeAbbey Problem 135 - **Variable Length Code** [Completed in: Python]
-- CodeAbbey Problem 157 - **Emirp primE**[Completed in: Python]
+- CodeAbbey Problem 157 - **Emirp primE** [Completed in: Python]
 
 <h3>Problem descriptions:</h3>
 
