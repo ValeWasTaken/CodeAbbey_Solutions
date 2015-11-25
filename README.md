@@ -20,6 +20,7 @@ Note: Any solutions in Python with the version number not specified at the top s
 - CodeAbbey Problem 007 - **Fahrenheit to Celsius** [Completed in: Python]
 - CodeAbbey Problem 008 - **Arithmetic Progression** [Completed in: Python]
 - CodeAbbey Problem 009 - **Triangles** [Completed in: Python]
+- CodeAbbey Problem 010 - **Linear Function** [Completed in Python]
 - CodeAbbey Problem 011 - **Sum of digits** [Completed in: Python]
 - CodeAbbey Problem 012 - **Modulo and time difference** [Completed in: Python]
 - CodeAbbey Problem 013 - **Weighted sum of digits** [Completed in: Python]
@@ -130,6 +131,13 @@ Calculate sums of arithmetic progression.
 You are given several triplets of values representing lengths of the sides of triangles. You should tell from which triplets it is possible to build triangle and for which it is not.
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id009-Triangles.py">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/linear-function">Linear Function</a></strong>
+<BR>
+Your task is to determine a and b by two points, belonging to the function.
+I.e. you are told two pairs of values (x1, y1), (x2, y2) which satisfy the function equation - and you should restore the equation itself.
+<BR>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id010-Linear_Function.py">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/sum-of-digits">Problem 11</a>: Sum of digits</strong>
 <BR>
