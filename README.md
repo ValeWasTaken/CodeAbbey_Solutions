@@ -68,7 +68,6 @@ Note: Any solutions in Python with the version number not specified at the top s
 - CodeAbbey Problem 094 - **Fool's Day 2014** [Completed in: Python]
 - CodeAbbey Problem 104 - **Triangle Area** [Completed in: Python]
 - CodeAbbey Problem 114 - **Tricky Printing** [Completed in: Brainfuck]
-- CodeAbbey Problem 120 - **Selection Sort** [*Work-In-Progress*]
 - CodeAbbey Problem 127 - **Anagrams** [Completed in: Python]
 - CodeAbbey Problem 128 - **Combinations Counting** [Completed in: Python]
 - CodeAbbey Problem 135 - **Variable Length Code** [Completed in: Python]
@@ -424,11 +423,6 @@ Find the area of all triangles only using the vertices.
 Print the assigned number in Brainfuck.
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Brainfuck/id114-Tricky_Printing.bf">Solution</a>
-
-<strong><a href="http://www.codeabbey.com/index/task_view/selection-sort">Problem 120</a>: Selection Sort</strong>
-<BR>
-Implement the selection sort algorithm described and print out the index of selected maximum at each pass.
-<BR>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/anagrams">Problem 127</a>: Anagrams</strong>
 <BR>
