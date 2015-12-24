@@ -1,12 +1,16 @@
 # Python 3.4
-# Work in progress, currently the program is near the answer but not 100% accurate.
 
 def two_printers():
     tests = int(input())
     answer = []
     for test in range(tests):
-        # p1s = Printer #1 Speed, p2s = Printer #2 Speed. (Page per X seconds)
-        p1s, p2s, pages = [int(x) for x in input().split()]
-        ans = pages / (1/p1s + 1/p2s)
-        answer.append(str(ans))
+        x, y, n = [float(x) for x in input().split()]
+        a = int(y * n / (x + y))
+        b = int(x * n / (x + y))
+
+        answer_1 = int(max((a + 1) * x, b * y))
+        answer_2 = int(max(a * x, (b + 1) * y))
+
+        answer.append(str(min(answer_1, answer_2)))
     print(' '.join(answer))
+two_printers()
