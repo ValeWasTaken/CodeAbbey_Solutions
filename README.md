@@ -32,7 +32,7 @@ Note: Any solutions in Python with the version number not specified at the top s
 - CodeAbbey Problem 019 - **Matching Brackets** [Completed in: Python]
 - CodeAbbey Problem 020 - **Vowel Count** [Completed in: Python]
 - CodeAbbey Problem 021 - **Array Counters** [Completed in: Python]
-- CodeAbbey Problem 022 - **Two Printers** [*Work-In-Progress in:* Python]
+- CodeAbbey Problem 022 - **Two Printers** [Completed in: Python]
 - CodeAbbey Problem 023 - **Bubble in Array** [Completed in: Python]
 - CodeAbbey Problem 024 - **Neumann's Random Generator** [Completed in: Python]
 - CodeAbbey Problem 025 - **Linear Congruential Generator** [Completed in: Python]
@@ -210,7 +210,7 @@ Here is an array of length M with numbers in the range 1 ... N, where N is less 
 <BR>
 Using two printers working together that print at different speeds, determine the shortest amount of time required to print a document. Note: All pages have to be completely printed. 2 printers printing at 1 page per second make 5 pages in 3 seconds, not 2.5 seconds.
 <BR>
-<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/">Solution</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id022-Two_Printers.py">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/bubble-in-array">Problem 23</a>: Bubble in Array</strong>
 <BR>
