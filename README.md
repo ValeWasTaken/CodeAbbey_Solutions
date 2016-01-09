@@ -65,6 +65,7 @@ Note: Any solutions in Python with the version number not specified at the top s
 - CodeAbbey Problem 068 - **Bicycle Race** [Completed in: Python]
 - CodeAbbey Problem 069 - **Fibonacci Divisibility** [Completed in: Python]
 - CodeAbbey Problem 071 - **Fibonacci Divisibility Advanced** [Completed in: Python]
+- CodeAbbey Problem 075 - **Yacht or Dice Poker** [*Work-in-progress*]
 - CodeAbbey Problem 081 - **Bit Count** [Completed in: Python]
 - CodeAbbey Problem 094 - **Fool's Day 2014** [Completed in: Python]
 - CodeAbbey Problem 104 - **Triangle Area** [Completed in: Python]
@@ -406,6 +407,12 @@ Find the index of the first non-zero member of this list, which is evenly divisi
 Find the index of the first non-zero member of this list, which is evenly divisible by this M, e.g. if you are given M = 17 the answer is 9 (the index of the element 34.) For all numbers given. The difference from the problem #69 is that the numbers inputted into this program are around 8 figures while problem #69 was around 1-2 figures.
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id071-Fibonacci_Divisibility_Advanced.py">Solution</a>
+
+<strong><a href="http://www.codeabbey.com/index/task_view/yacht-or-dice-poker">Problem 75</a>: Yacht or Dice Poker</strong>
+<BR>
+Given the combination of dice determine what poker values (ex: pair or full-house) the dice contain.
+<BR>
+<a href="">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/bit-count">Problem 81</a>: Bit Count</strong>
 <BR>
