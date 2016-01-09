@@ -149,7 +149,7 @@ Find the sum of (A*B) + C and then find the sum of that sum's digits for each li
 <BR>
 Calculate the difference in days, hours, minutes, and seconds between two times.
 <BR>
-<a href="">Solution</a>
+<a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id012-Modulo_and_time_difference.py">Solution</a>
 
 <strong><a href="http://www.codeabbey.com/index/task_view/weighted-sum-of-digits">Problem 13</a>: Weighted sum of digits</strong>
 <BR>
@@ -449,7 +449,7 @@ Convert a string into assigned values and then encode by converting it then into
 <BR>
 <a href="https://github.com/ArnoldM904/CodeAbbey_Solutions/blob/master/Python/id128-Combinations_Counting.py">Solution</a>
 
-<strong><a href="">Problem 157</a>: Emirp primE</strong>
+<strong><a href="http://www.codeabbey.com/index/task_view/emirp-prime">Problem 157</a>: Emirp primE</strong>
 <BR>
 Find the closest larger prime number to each given input where the prime number will remain a prime number even if it is reversed.
 <BR>
