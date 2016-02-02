@@ -8,7 +8,7 @@ A list of all problems can be found here: http://www.codeabbey.com/index/task_li
 My Code Abbey profile page can be found here: <a href="http://www.codeabbey.com/index/user_profile/khantler">Link</a>
 <BR>
 
-Note: Any solutions in Python with the version number not specified at the top should be in Python 2.7
+Note: Solutions are a mixture of both Python 2.7 and 3.4; that being said the newer a solution the more likely it is to be in Python 3.4, likewise, any solution that is not specified at the top of the program within a comment in likely in Python 2.7
 
 <h2>Table of Contents:</h2>
 - CodeAbbey Problem 001 - **Sum "A+B"** [Completed in: Python]
